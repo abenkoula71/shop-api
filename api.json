@@ -1,0 +1,59 @@
+[
+    {
+      'name': 'karnox sued chaire',
+      'category': 'chairs',
+      'prix': '30000 DA',
+      'raite': '4.5',
+      'typeCategory': ['Gaming Chairs', 'logitech'],
+      'id': 1,
+      'description': 'chairs gaming for gamer is good for santi ...',
+      'image':
+          'https://i.seadn.io/gae/Q3Lpgm3KJhw-r0kp_Eqib2-WEuN4akPO7-cpwN7hhoD4viC6dij6up3_wm5XNReDn1G9JSF2ETan7-R4jprFMRv2Y0xOlTiiZP_P?auto=format&w=1000'
+    },
+    {
+      'name': 'karnox sued chaire',
+      'category': 'chairs',
+      'prix': '30000 DA',
+      'raite': '4.4',
+      'id': 2,
+      'typeCategory': ['Gaming Chairs', 'logitech', '2'],
+      'description': 'chairs gaming for gamer is good for santi ...',
+      'image':
+          'https://d-techalgerie.com/shop/wp-content/uploads/2021/03/1545203256.png'
+    },
+    {
+      'name': 'karnox sued chaire',
+      'category': 'chairs',
+      'prix': '35000 DA',
+      'raite': '3.4',
+      'id': 3,
+      'typeCategory': [
+        'Gaming Chairs',
+        'table',
+        'controler',
+        'Gaming Chairs',
+        'table',
+        'controler',
+      ],
+      'description': 'chairs gaming for gamer is good for santi ...',
+      'image': 'https://www.eblue-gaming.fr/wp-content/uploads/2017/11/6A.png'
+    },
+    {
+      'name': 'karnox sued chaire',
+      'category': 'chairs',
+      'prix': '50000 DA',
+      'raite': '34.9',
+      'id': 4,
+      'typeCategory': [
+        'Gaming Chairs',
+        'table',
+        'controler',
+        'Gaming Chairs',
+        'table',
+        'controler',
+      ],
+      'description': 'chairs gaming for gamer is good for santi ...',
+      'image':
+          'https://www.stealth-gamer.com/pub/media/catalog/product/cache/eca94b57f8113e61f694498f4c6179b5/t/e/team8-fluo-v3-orange-normal-02-1-700x700_1.png'
+    },
+  ]
